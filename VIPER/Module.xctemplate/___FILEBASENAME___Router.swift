@@ -1,5 +1,5 @@
 //___FILEHEADER___
 
-class ___FILEBASENAME___: ___FILEBASENAME___Protocol {
-	
+class ___FILEBASENAME___: ___VARIABLE_moduleName___RouterInput {
+	weak var viewController: UIViewController!
 }
